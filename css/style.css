@@ -126,7 +126,8 @@ width: auto;
   }
 
   .maps {
-    height: auto;
+    height: 400px;
+    width: 400px;
   }
 
   .navbar-nav {
