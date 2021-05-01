@@ -43,6 +43,11 @@ p {
   align-items: center;
 }
 
+.card {
+margin-bottom: 10px;
+width: 400px;
+}
+
 .navtext:hover {
   letter-spacing: 4px;
   color: salmon;
@@ -110,6 +115,11 @@ footer {
   p {
     font-size: 14px;
   }
+
+.card {
+margin-bottom: 10px;
+width: auto;
+}
 
   .navtext {
     margin-right: 0px;
