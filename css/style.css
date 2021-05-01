@@ -111,6 +111,10 @@ footer {
     font-size: 14px;
   }
 
+  .navtext {
+    margin-right: 0px;
+  }
+
   .maps {
     height: auto;
   }
