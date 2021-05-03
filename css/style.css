@@ -125,9 +125,9 @@ width: auto;
     margin-right: 0px;
   }
 
-  .maps {
-    height: 400px;
-    width: 400px;
+  iframe {
+    height: 375px;
+    width: 375px;
   }
 
   .navbar-nav {
