@@ -70,7 +70,8 @@ header {
 .rev-brand {
   font-size: 30px;
   text-decoration: none;
-  text-transform: uppercase;
+  font-style: italic;
+  text-transform: lowercase;
   color: black;
   font-weight: 800;
   transition: 0.2s;
@@ -141,7 +142,7 @@ width: auto;
   }
 
   .rev-brand {
-    font-size: 20px;
+    font-size: 25px;
   }
 
   .post-heading h3 {
