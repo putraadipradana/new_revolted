@@ -23,7 +23,7 @@ p {
   z-index: 2;
 }
 
-.isi video {
+.isi .girl {
   position: absolute;
   top: 0;
   left: 0;
@@ -117,13 +117,14 @@ footer {
     font-size: 14px;
   }
 
-.card {
-margin-bottom: 10px;
-width: auto;
-}
+  .card {
+    margin-bottom: 10px;
+    width: auto;
+  }
 
   .navtext {
     margin-right: 0px;
+    font-size: 15px;
   }
 
   iframe {
