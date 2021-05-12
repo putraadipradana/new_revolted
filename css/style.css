@@ -43,9 +43,15 @@ p {
   align-items: center;
 }
 
+.moreprofile {
+  text-decoration: none;
+  color: grey;
+  font-weight: 600;
+}
+
 .card {
-margin-bottom: 10px;
-width: 400px;
+  margin-bottom: 10px;
+  width: 400px;
 }
 
 .navtext:hover {
