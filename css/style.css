@@ -23,7 +23,7 @@ p {
   z-index: 2;
 }
 
-.isi img {
+.isi .slide {
   position: absolute;
   top: 0;
   left: 0;
