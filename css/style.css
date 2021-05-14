@@ -23,7 +23,7 @@ p {
   z-index: 2;
 }
 
-.carousel .carousel-items img {
+.carousel .carousel-item img {
   position: absolute;
   top: 0;
   left: 0;
