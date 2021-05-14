@@ -12,15 +12,11 @@ p {
 
 .isi {
   position: absolute;
-  right: 0;
   width: 100%;
   min-height: 100vh;
-  display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #111;
   color: #ffff;
-  z-index: 2;
 }
 
 .isi img {
